@@ -2,6 +2,7 @@
 layout: default
 title: David Pham's CV
 ---
+# David Pham's Digital CV
 
 ## Here is a list of relevant courses I have taken so far (and courses I intend on taking):
 * CSC108 (Intro to Programming)
