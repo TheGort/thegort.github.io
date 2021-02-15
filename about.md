@@ -2,8 +2,12 @@
 layout: default
 title: About Me
 ---
+# About Me
+
 My name is David Pham, and I'm currently a third year student at the University of Toronto studying mathematics and statistics.
 
 My hobbies include video games, cinematography/video editing and making people smile.
 
 I also have a YouTube channel which you can check out [here.](https://www.youtube.com/channel/UCaaYCWSM01Ke6LqG100zg0A)
+
+It's truly a small, yet big world out there, folks. Enjoy the time we have.
