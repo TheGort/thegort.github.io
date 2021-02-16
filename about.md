@@ -10,9 +10,9 @@ My hobbies include video games, cinematography/video editing and making people s
 
 I also have a YouTube channel which you can check out [here.](https://www.youtube.com/channel/UCaaYCWSM01Ke6LqG100zg0A)
 
-If anybody ever wondered what I listen to, follow me on [Spotify:] (https://open.spotify.com/user/6r2g75pi5l7e863bglv83pzj9?si=CZbhiKIdRq2NqdZcS2SdHQ).
-I like listening to trap, rap and hip-hop, and I listen to k-pop every now and then.
-My favorite artists are Travis Scott and DaBaby.
+If anybody ever wondered what I listen to, follow me on [Spotify:](https://open.spotify.com/user/6r2g75pi5l7e863bglv83pzj9?si=CZbhiKIdRq2NqdZcS2SdHQ).\n
+I like listening to trap, rap and hip-hop, and I listen to k-pop every now and then.\n
+My favorite artists are Travis Scott and DaBaby.\n
 Favorite song: Magnolia by Playboi Carti. (Hide it in my sock)
 
 It's truly a small, yet big world out there, folks. Enjoy the time we have.
