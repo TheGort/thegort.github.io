@@ -4,6 +4,8 @@ title: About Me
 ---
 # About Me
 
+![image](/assets/images/cocosponsor.jpg)
+
 My name is David Pham, and I'm currently a third year student at the University of Toronto (St. George) studying mathematics and statistics.
 
 My hobbies include video games, cinematography/video editing and making people smile.
