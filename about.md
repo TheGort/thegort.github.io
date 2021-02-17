@@ -4,7 +4,7 @@ title: About Me
 ---
 # About Me
 
-![image](/assets/images/cocosponsor.jpg)
+![image](/assets/images/cocosponsor.jpg){:height="384px" width="512px"}.
 
 My name is David Pham, and I'm currently a third year student at the University of Toronto (St. George) studying mathematics and statistics.
 
