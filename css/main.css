@@ -28,11 +28,12 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	margin-bottom: 0px;
 }
 h3 {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
@@ -49,9 +50,14 @@ footer {
 ul { 
     font-size: 1.5rem;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	margin: 0px;
 }
 
 ul li {
     list-style-type: circle;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+div {
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }

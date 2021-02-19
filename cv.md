@@ -4,8 +4,29 @@ title: David Pham's CV
 ---
 # David Pham's Digital CV
 
-## Here is a list of relevant courses I have taken so far (and courses I intend on taking):
+## Education  
+----
+<p style="float: right;">Sep 2018 - June 2022</p>
+**University of Toronto (St. George)**  
+BSc. Mathematics and Statistics Specialist  
+**Campus Involvement:**
+* Logistics Coordinator, University of Toronto Vietnamese Students Association
+	- Responsible for micromanaging all detailed event logistics including event itineraries, inventory lists and executive roles to plan official social gatherings that incorporate safe and inclusive practices
+* Math Club General Member  
 
+## Technical Skills
+----
+I am comfortable with the following languages/applications:
+* Python (NumPy, pandas)
+* R (dplyr, tidyverse, ggplot2, knitr)
+* Git/GitHub
+* HTML & CSS
+* SQL
+* Tableau  
+
+## Relevant Courses
+----
+Here is a list of relevant courses I have taken so far (and courses I intend on taking):
 * CSC108 (Intro to Programming)
 * STA130 (Statistical Reasoning)
 * MAT137 (Calculus!)

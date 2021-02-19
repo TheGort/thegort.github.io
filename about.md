@@ -4,7 +4,7 @@ title: About Me
 ---
 # About Me
 
-![image](/assets/images/cocosponsor.jpg){:height="384px" width="512px"}.
+![image](/assets/images/cocosponsor.jpg){:height="384px" width="512px"}
 
 My name is David Pham, and I'm currently a third year student at the University of Toronto (St. George) studying mathematics and statistics.
 
@@ -19,6 +19,7 @@ I like listening to trap, rap and hip-hop, and I listen to k-pop every now and t
 My favorite **artists** are Travis Scott, DaBaby and EXO (never forget).  
 Favorite **song**: Magnolia by Playboi Carti.  
 > In New York I Milly Rock (Rock)  
-> Hide it in my sock (Sock)
+> Hide it in my sock (Sock)  
+![image](/assets/images/LESGO.gif){:height="169px" width="300px"}
 
 `It's truly a small, yet big world out there, folks. Enjoy the time we have.`
