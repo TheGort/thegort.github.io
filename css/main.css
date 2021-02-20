@@ -61,3 +61,7 @@ ul li {
 div {
 	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
+code {
+	font-size: 1.4rem;
+}
