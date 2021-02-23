@@ -10,6 +10,9 @@ My name is David Pham, and I'm currently a third year student at the University 
 
 My hobbies include video games, cinematography/video editing and making people smile.
 
+I enjoy playing Valorant, League of Legends, Stardew Valley, Sid Meier's Civilization and many other games that you can play with friends. If you'd ever like to join my friends and I sometime, add me on Discord via
+TheGort#5051.
+
 I also have a YouTube channel which you can check out [here.](https://www.youtube.com/channel/UCaaYCWSM01Ke6LqG100zg0A)  
 I haven't been posting because I'm very busy with school, but I hope to find the time to continue.  
 You'll find that I upload all sorts of content, ranging from video games, educational videos, reviews to skits. It's a channel about me!

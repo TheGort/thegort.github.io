@@ -36,6 +36,19 @@ I am comfortable with the following languages/applications:
 * Extensively used tidyr and dplyr libraries to wrangle, parse and transform real-time data from the City of Toronto website on COVID-19 cases in all 140 neighbourhoods
 * Used ggplot to visualize daily cases, outbreak types and thematic maps that illustrate the percentage of low-income families and the proportion of COVID-19 cases by region
 
+## Experience
+----
+<p style = "float: right;">2018-2019</p>
+**Tutor**
+* Planned and organized one-on-one tutoring sessions in-person as well as Skype/Discord to high school students and people all around the world
+* Topics include: introduction to programming, discrete mathematics and basic algebra
+* Some videos can still be found on my YouTube channel (as a side note, I really want to produce educational content again but I've been extremely busy with school!)
+
+<p style = "float: right;">Summer 2019, Toronto ON</p>
+**Canadian National Exhibition, Lead Attendant/Housekeeper** 
+* Managed a team and surveyed the grounds, ensuring everyone was doing their work and occasionally helped out with cleaning
+* Worked independently and with other staff as needed
+
 ## Relevant Courses
 ----
 Here is a list of relevant courses I have taken so far (and courses I intend on taking):
