@@ -26,15 +26,16 @@ I am comfortable with the following languages/applications:
 * Tableau  
 
 ## Projects
-_I'll include links to my work soon._
 ----
+_I'll include links to my work soon._  
+
 **League of Legends Data Analysis (R, Python)**
 * Made a report trying to establish a relationship between rank in League of Legends and predictor variables such as total number of games played, wins, summoner level, etc. using linear regression
 * Used Python's NumPy and pandas libraries to extract and organize data, and R to conduct regression analyses.
 * (The first version/attempt of my report has been completed, but I am refining the methods and procedures to make a second part!)
 
 **Data Visualization for COVID-19 Cases in Toronto (R)**
-* Extensively used tidyr and dplyr libraries to wrangle, parse and transform real-time data from the City of Toronto website on COVID-19 cases in all 140 neighbourhoods
+* Extensively used tidyr and dplyr libraries to wrangle, parse and transform real-time data from the City of Toronto website on COVID-19 cases in all 140 neighbourhoods for a school assignment
 * Used ggplot to visualize daily cases, outbreak types and thematic maps that illustrate the percentage of low-income families and the proportion of COVID-19 cases by region
 
 ## Experience
