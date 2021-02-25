@@ -26,6 +26,7 @@ I am comfortable with the following languages/applications:
 * Tableau  
 
 ## Projects
+_I'll include links to my work soon._
 ----
 **League of Legends Data Analysis (R, Python)**
 * Made a report trying to establish a relationship between rank in League of Legends and predictor variables such as total number of games played, wins, summoner level, etc. using linear regression
@@ -46,7 +47,7 @@ I am comfortable with the following languages/applications:
 
 <p style = "float: right;">Summer 2019, Toronto ON</p>
 **Canadian National Exhibition, Lead Attendant/Housekeeper** 
-* Managed a team and surveyed the grounds, ensuring everyone was doing their work and occasionally helped out with cleaning
+* Managed a team and surveyed the grounds, ensuring everyone was doing their work and occasionally helped out with cleaning and other duties
 * Worked independently and with other staff as needed
 
 ## Relevant Courses
@@ -59,7 +60,7 @@ Here is a list of relevant courses I have taken so far (and courses I intend on 
 * CSC165 (Mathematical Expression & Reasoning for Computer Science)
 * MAT223 (Linear Algebra I)
 * MAT224 (Linear Algebra II)
-* MAT235 (Multivariable Calculus)
+* MAT235 (Multivariable Calculus) _(I love you, Professor Leonard.)_
 * MAT244 (Ordinary Differential Equations)
 * MAT246 (Abstract Mathematics)
 * STA257 (Probability & Statistics 1)
@@ -70,7 +71,6 @@ Here is a list of relevant courses I have taken so far (and courses I intend on 
   - MAT301 (Groups and Symmetries)
   - STA303 (Methods of Data Analysis II)
   - MAT334 (Complex Variables)
-  - STA452 (Mathematical Statistics I)
   - FSL421 (French IV)
 * _Courses I plan to take in the future:_
   - STA304 (Surveys, Sampling and Observational Data)
@@ -80,5 +80,6 @@ Here is a list of relevant courses I have taken so far (and courses I intend on 
   - MAT337 (Intro to Real Analysis)
   - APM346 (Partial Differential Equations)
   - STA442 (Methods of Applied Statistics)
+  - STA452 (Mathematical Statistics I)
   - STA453 (Mathematical Statistics II)
   - STA457 (Time Series Analysis)
