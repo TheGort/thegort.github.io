@@ -4,25 +4,26 @@ title: About Me
 ---
 # About Me
 
-![image](/assets/images/cocosponsor.jpg){:height="384px" width="512px"}
+![image](/assets/images/cocosponsor.jpg){:height="400px" width="550px"}
 
-My name is David Pham, and I'm currently a third year student at the University of Toronto (St. George) studying mathematics and statistics.
+Hey! Thanks for taking the time to check me out.
+
+In summary, I am an undergraduate who is looking to learn more about the applications in the statistical sciences. I enjoy concepts including regression analysis and probability theory. In the future, I 
+hope to deepen this knowledge and take more advanced courses.
 
 My hobbies include video games, cinematography/video editing and making people smile.
 
 I enjoy playing Valorant, League of Legends, Stardew Valley, Sid Meier's Civilization and many other games that you can play with friends. If you'd ever like to join my friends and I sometime, add me on Discord via
 TheGort#5051.
 
-I also have a YouTube channel which you can check out [here.](https://www.youtube.com/channel/UCaaYCWSM01Ke6LqG100zg0A)  
+I also have a YouTube channel which you can check out [here.](https://www.youtube.com/channel/UCaaYCWSM01Ke6LqG100zg0A){:target="_blank"}  
 I haven't been posting because I'm very busy with school, but I hope to find the time to continue.  
 You'll find that I upload all sorts of content, ranging from video games, educational videos, reviews to skits. It's a channel about me!
 
-If anybody ever wondered what I listen to, follow me on [Spotify.](https://open.spotify.com/user/6r2g75pi5l7e863bglv83pzj9?si=CZbhiKIdRq2NqdZcS2SdHQ)  
+If anybody ever wondered what I listen to, follow me on [Spotify.](https://open.spotify.com/user/6r2g75pi5l7e863bglv83pzj9?si=CZbhiKIdRq2NqdZcS2SdHQ){:target="_blank"}  
 I like listening to trap, rap and hip-hop, and I listen to k-pop every now and then.  
-My favorite **artists** are Travis Scott, DaBaby and EXO (never forget).  
-Favorite **song**: Magnolia by Playboi Carti.  
-> In New York I Milly Rock (Rock)  
-> Hide it in my sock (Sock)  
-![image](/assets/images/LESGO.gif){:height="169px" width="300px"}
+My favorite artists are Travis Scott, _hit rapper and artist_, DaBaby, and EXO.  
+Favorite song: Diamonds Dancing by Young Thug, Gunna, and Travis Scott.  
+> _**Jeffrey with me, now we gotta run it back, Turbo**_
 
 `It's truly a small, yet big world out there, folks. Enjoy the time we have.`

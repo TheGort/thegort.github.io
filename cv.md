@@ -2,7 +2,7 @@
 layout: default
 title: David Pham's CV
 ---
-# David Pham's Digital (Extensive) CV
+# David Pham's Digital Curriculum Vitae
 If you would like to see my actual resume, I will post it **here** (coming soon!).
 
 ## Education  
@@ -29,14 +29,21 @@ I am comfortable with the following languages/applications:
 ----
 _I'll include links to my work soon._  
 
+[**Statistical Analysis of Gender Parity (R)**]({{ site.url }}/assets/sta303_project.pdf){:target="_blank"}
+* Worked in a group for a school project as a fake consulting firm to assess gender parity in hiring, wages, and promotion for a fictitious software company
+* Applied linear, logistic, and poisson regression to wrangled datasets in order to interpret summaries and confidence intervals
+* Made a professional report with an executive summary and technical exposition to present findings
+
 **League of Legends Data Analysis (R, Python)**
 * Made a report trying to establish a relationship between rank in League of Legends and predictor variables such as total number of games played, wins, summoner level, etc. using linear regression
 * Used Python's NumPy and pandas libraries to extract and organize data, and R to conduct regression analyses.
 * (The first version/attempt of my report has been completed, but I am refining the methods and procedures to make a second part.)
 
-**Data Visualization for COVID-19 Cases in Toronto (R)**
+[**Data Visualization for COVID-19 Cases in Toronto (R)**]({{ site.url }}/assets/sta303_data-exploration_final.pdf){:target="_blank"}
 * Extensively used tidyr and dplyr libraries to wrangle, parse and transform real-time data from the City of Toronto website on COVID-19 cases in all 140 neighborhoods for a school assignment
 * Used ggplot to visualize daily cases, outbreak types and thematic maps that illustrate the percentage of low-income families and the proportion of COVID-19 cases by region
+
+**STA302 Project?**
 
 ## Experience
 ----
@@ -68,18 +75,18 @@ Here is a list of relevant courses I have taken so far (and courses I intend on 
 * STA261 (Probability & Statistics 2)
 * STA302 (Methods of Data Analysis I)
 * STA347 (Probability Theory I)
+* MAT301 (Groups and Symmetries)
+* STA303 (Methods of Data Analysis II)
+* MAT334 (Complex Variables) _(I love you, Petra Bonfert Taylor and CrystalMath.)_
+* FSL421 (French IV)
 * _In progress:_
-  - MAT301 (Groups and Symmetries)
-  - STA303 (Methods of Data Analysis II)
-  - MAT334 (Complex Variables)
-  - FSL421 (French IV)
-* _Courses I plan to take in the future:_
   - STA304 (Surveys, Sampling and Observational Data)
   - STA305 (Design and Analysis of Experiments)
-  - STA313 (Data Visualization)
+* _Courses I plan to take in the future:_
+  - EAS100 (Modern Standard Chinese I)
   - STA314 (Statistical Methods for Machine Learning I)
   - MAT337 (Intro to Real Analysis)
-  - APM346 (Partial Differential Equations)
+  - APM462 (Nonlinear Optimization)
   - STA442 (Methods of Applied Statistics)
   - STA452 (Mathematical Statistics I)
   - STA453 (Mathematical Statistics II)
