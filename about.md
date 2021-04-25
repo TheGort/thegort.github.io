@@ -9,12 +9,12 @@ title: About Me
 Hey! Thanks for taking the time to check me out.
 
 In summary, I am an undergraduate who is looking to learn more about the applications in the statistical sciences. I enjoy concepts including regression analysis and probability theory. In the future, I 
-hope to deepen this knowledge and take more advanced courses.
+hope to deepen this knowledge and take more advanced courses related to these subjects.
 
 My hobbies include video games, cinematography/video editing and making people smile.
 
-I enjoy playing Valorant, League of Legends, Stardew Valley, Sid Meier's Civilization and many other games that you can play with friends. If you'd ever like to join my friends and I sometime, add me on Discord via
-TheGort#5051.
+I enjoy playing Valorant, League of Legends, Stardew Valley, Sid Meier's Civilization and many other games [(check out my Steam profile here)](https://steamcommunity.com/id/thegortisthebestrightnow/){:target="_blank"}.
+If you'd ever like to join my friends and I sometime, add me on Discord via TheGort#5051.
 
 I also have a YouTube channel which you can check out [here.](https://www.youtube.com/channel/UCaaYCWSM01Ke6LqG100zg0A){:target="_blank"}  
 I haven't been posting because I'm very busy with school, but I hope to find the time to continue.  

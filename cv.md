@@ -35,15 +35,17 @@ _I'll include links to my work soon._
 * Made a professional report with an executive summary and technical exposition to present findings
 
 **League of Legends Data Analysis (R, Python)**
-* Made a report trying to establish a relationship between rank in League of Legends and predictor variables such as total number of games played, wins, summoner level, etc. using linear regression
+* Made a report trying to establish a relationship between rank in League of Legends and predictors such as total number of games played, wins, summoner level, etc. using linear regression
 * Used Python's NumPy and pandas libraries to extract and organize data, and R to conduct regression analyses.
 * (The first version/attempt of my report has been completed, but I am refining the methods and procedures to make a second part.)
 
 [**Data Visualization for COVID-19 Cases in Toronto (R)**]({{ site.url }}/assets/sta303_data-exploration_final.pdf){:target="_blank"}
 * Extensively used tidyr and dplyr libraries to wrangle, parse and transform real-time data from the City of Toronto website on COVID-19 cases in all 140 neighborhoods for a school assignment
-* Used ggplot to visualize daily cases, outbreak types and thematic maps that illustrate the percentage of low-income families and the proportion of COVID-19 cases by region
+* Used ggplot to visualize daily cases, outbreak types, and thematic maps that illustrate the percentage of low-income families and the proportion of COVID-19 cases by region
 
-**STA302 Project?**
+[**Comparing Complex Multiple Linear Models for Toronto and Mississauga House Prices (R)**]({{ site.url }}/assets/sta302_a3.pdf){:target="_blank"}
+* Implemented multiple linear regression in order to help home buyers predict sale price of homes in the GTA for a school assignment
+* Analyzed diagnostic plots and used the Akaike/Bayesian information criterion for optimal probabilistic model selection
 
 ## Experience
 ----
