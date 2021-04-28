@@ -3,7 +3,7 @@ layout: default
 title: David Pham's CV
 ---
 # David Pham's Digital Curriculum Vitae
-If you would like to see my actual resume, I will post it **here** (coming soon!).
+If you would like to see my actual resume, you can view it [**here.**]({{ site.url }}/assets/resume_davidpham.pdf){:target="_blank"}
 
 ## Education  
 ----
@@ -27,7 +27,6 @@ I am comfortable with the following languages/applications:
 
 ## Projects
 ----
-_I'll include links to my work soon._  
 
 [**Statistical Analysis of Gender Parity (R)**]({{ site.url }}/assets/sta303_project.pdf){:target="_blank"}
 * Worked in a group for a school project as a fake consulting firm to assess gender parity in hiring, wages, and promotion for a fictitious software company
