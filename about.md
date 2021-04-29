@@ -23,7 +23,6 @@ You'll find that I upload all sorts of content, ranging from video games, educat
 If anybody ever wondered what I listen to, follow me on [Spotify.](https://open.spotify.com/user/6r2g75pi5l7e863bglv83pzj9?si=CZbhiKIdRq2NqdZcS2SdHQ){:target="_blank"}  
 I like listening to trap, rap and hip-hop, and I listen to k-pop every now and then.  
 My favorite artists are Travis Scott, _hit rapper and artist_, DaBaby, and EXO.  
-Favorite song: Diamonds Dancing by Young Thug, Gunna, and Travis Scott.  
-> _**Jeffrey with me, now we gotta run it back, Turbo**_
+Favorite song: Save Your Tears by The Weeknd.  
 
 `It's truly a small, yet big world out there, folks. Enjoy the time we have.`
