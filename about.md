@@ -11,7 +11,7 @@ Hey! Thanks for taking the time to check me out.
 In summary, I am an undergraduate who is looking to learn more about the applications in the statistical sciences. I enjoy concepts including regression analysis and probability theory. In the future, I 
 hope to deepen this knowledge and take more advanced courses related to these subjects.
 
-My hobbies include video games, cinematography/video editing and making people smile.
+My hobbies include video games, cinematography/video editing, and making people smile.
 
 I enjoy playing Valorant, League of Legends, Stardew Valley, Sid Meier's Civilization and many other games [(check out my Steam profile here)](https://steamcommunity.com/id/thegortisthebestrightnow/){:target="_blank"}.
 If you'd ever like to join my friends and I sometime, add me on Discord via TheGort#5051.
@@ -21,8 +21,9 @@ I haven't been posting because I'm very busy with school, but I hope to find the
 You'll find that I upload all sorts of content, ranging from video games, educational videos, reviews to skits. It's a channel about me!
 
 If anybody ever wondered what I listen to, follow me on [Spotify.](https://open.spotify.com/user/6r2g75pi5l7e863bglv83pzj9?si=CZbhiKIdRq2NqdZcS2SdHQ){:target="_blank"}  
-I like listening to trap, rap and hip-hop, and I listen to k-pop every now and then.  
+I like listening to trap, pop, hip-hop, and I listen to k-pop every now and then.  
 My favorite artists are Travis Scott, _hit rapper and artist_, DaBaby, and EXO.  
-Favorite song: Save Your Tears by The Weeknd.  
+Favorite song: durag activity by Baby Keem (with Travis Scott)
+> You big stench in my life, yes yes, you big stench
 
 `It's truly a small, yet big world out there, folks. Enjoy the time we have.`
