@@ -11,7 +11,7 @@ If you would like to see my actual resume, you can view it [**here.**]({{ site.u
 **University of Toronto (St. George)**  
 BSc. Mathematics and Statistics Specialist  
 **Campus Involvement:**
-* Logistics Coordinator, University of Toronto Vietnamese Students Association
+* Events and Logistics Coordinator, University of Toronto Vietnamese Students Association
 	- Responsible for micromanaging all detailed event logistics including event itineraries, inventory lists and executive roles to plan official social gatherings that incorporate safe and inclusive practices
 * Math Club General Member  
 
@@ -48,7 +48,13 @@ I am comfortable with the following languages/applications:
 
 ## Experience
 ----
-<p style = "float: right;">2018-2019</p>
+
+<p style = "float:right;">June 2021 - Present</p>
+**Research Assistant**
+* Currently assisting Professor Scott Schieman in his research regarding work, stress, and health among Canadians, with special attention to the effects of the pandemic.
+* Using Python libraries such as NumPy and pandas to analyze and categorize open-ended survey data
+
+<p style = "float: right;">2018 - 2019</p>
 **Tutor**
 * Planned and organized one-on-one tutoring sessions in-person as well as Skype/Discord to high school students and people all around the world
 * Topics include: introduction to programming, discrete mathematics and basic algebra
@@ -74,21 +80,20 @@ Here is a list of relevant courses I have taken so far (and courses I intend on 
 * MAT246 (Abstract Mathematics)
 * STA257 (Probability & Statistics 1)
 * STA261 (Probability & Statistics 2)
-* STA302 (Methods of Data Analysis I)
-* STA347 (Probability Theory I)
 * MAT301 (Groups and Symmetries)
+* STA302 (Methods of Data Analysis I)
 * STA303 (Methods of Data Analysis II)
+* STA304 (Surveys, Sampling and Observational Data)
 * MAT334 (Complex Variables) _(I love you, Petra Bonfert Taylor and CrystalMath.)_
+* STA347 (Probability Theory I)
 * FSL421 (French IV)
 * _In progress:_
-  - STA304 (Surveys, Sampling and Observational Data)
   - STA305 (Design and Analysis of Experiments)
 * _Courses I plan to take in the future:_
-  - EAS100 (Modern Standard Chinese I)
+  - EAS120 (Modern Standard Japanese I)
   - STA314 (Statistical Methods for Machine Learning I)
   - MAT337 (Intro to Real Analysis)
   - APM462 (Nonlinear Optimization)
   - STA442 (Methods of Applied Statistics)
-  - STA452 (Mathematical Statistics I)
-  - STA453 (Mathematical Statistics II)
+  - STA437 (Methods for Multivariate Data)
   - STA457 (Time Series Analysis)
