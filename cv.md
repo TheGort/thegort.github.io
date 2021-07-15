@@ -25,13 +25,14 @@ I am comfortable with the following languages/applications:
 * SQL
 * Tableau  
 
-## Projects
+## Projects 
+#### (Please click the hyperlinks to view my work.)
 ----
 
 [**Statistical Analysis of Gender Parity (R)**]({{ site.url }}/assets/sta303_project.pdf){:target="_blank"}
-* Worked in a group for a school project as a fake consulting firm to assess gender parity in hiring, wages, and promotion for a fictitious software company
+* Worked in a group for a school project as a consulting firm to assess gender parity in hiring, wages, and promotions for a fictitious software company
 * Applied linear, logistic, and poisson regression to wrangled datasets in order to interpret summaries and confidence intervals
-* Made a professional report with an executive summary and technical exposition to present findings
+* Made a professional report to present findings
 
 **League of Legends Data Analysis (R, Python)**
 * Made a report trying to establish a relationship between rank in League of Legends and predictors such as total number of games played, wins, summoner level, etc. using linear regression
@@ -52,22 +53,22 @@ I am comfortable with the following languages/applications:
 <p style = "float:right;">June 2021 - Present</p>
 **Research Assistant**
 * Currently assisting Professor Scott Schieman in his research regarding work, stress, and health among Canadians, with special attention to the effects of the pandemic.
-* Using Python libraries such as NumPy and pandas to analyze and categorize open-ended survey data
+* Using Python libraries such as NumPy and pandas to analyze and categorize open-ended survey data about Canadians working from home during COVID-19.
 
 <p style = "float: right;">2018 - 2019</p>
 **Tutor**
 * Planned and organized one-on-one tutoring sessions in-person as well as Skype/Discord to high school students and people all around the world
-* Topics include: introduction to programming, discrete mathematics and basic algebra
+* Topics include: introduction to programming, logic, discrete mathematics and basic algebra
 * Some videos can still be found on my YouTube channel (as a side note, I really want to produce educational content again, but I've been extremely busy with school.)
 
-<p style = "float: right;">Summer 2019, Toronto ON</p>
+<p style = "float: right;">Summer 2019</p>
 **Canadian National Exhibition, Lead Attendant/Housekeeper** 
 * Managed a team and surveyed the grounds, ensuring everyone was doing their work and occasionally helped out with cleaning and other duties
 * Worked independently and with other staff as needed
 
 ## Relevant Courses
 ----
-Here is a list of relevant courses I have taken so far (and courses I intend on taking):
+Here is an exhaustive list of relevant courses I have taken so far (and courses I intend on taking):
 * CSC108 (Intro to Programming)
 * STA130 (Statistical Reasoning)
 * MAT137 (Calculus!)
