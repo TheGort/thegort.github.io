@@ -29,10 +29,15 @@ I am comfortable with the following languages/applications:
 #### (Please click the hyperlinks to view my work.)
 ----
 
+[**Report on the Effect of Mortality Rate and Alcohol Consumption Using RDD (R)**]({{ site.url }}/assets/sta304_project.pdf){:target="_blank"}
+* Individual school project aimed to replicate and extend Carpenter's and Dobkin's 2009 study on mortality rate and alcohol consumption
+* Applied linear and quadratic regression discontinuity methods, using minimum legal drinking age as the threshold
+* Used dplyr and tidyverse to clean data, and ggplot2 + knitr to visualize and present results.
+
 [**Statistical Analysis of Gender Parity (R)**]({{ site.url }}/assets/sta303_project.pdf){:target="_blank"}
 * Worked in a group for a school project as a consulting firm to assess gender parity in hiring, wages, and promotions for a fictitious software company
+* Used statistical inference to evaluate multiple generalized linear (mixed) models
 * Applied linear, logistic, and poisson regression to wrangled datasets in order to interpret summaries and confidence intervals
-* Made a professional report to present findings
 
 **League of Legends Data Analysis (R, Python)**
 * Made a report trying to establish a relationship between rank in League of Legends and predictors such as total number of games played, wins, summoner level, etc. using linear regression
@@ -82,19 +87,19 @@ Here is an exhaustive list of relevant courses I have taken so far (and courses 
 * STA257 (Probability & Statistics 1)
 * STA261 (Probability & Statistics 2)
 * MAT301 (Groups and Symmetries)
-* STA302 (Methods of Data Analysis I)
-* STA303 (Methods of Data Analysis II)
-* STA304 (Surveys, Sampling and Observational Data)
+* STA302/1001 (Methods of Data Analysis I)
+* STA303/1002 (Methods of Data Analysis II)
+* STA304/1003 (Surveys, Sampling and Observational Data)
 * MAT334 (Complex Variables) _(I love you, Petra Bonfert Taylor and CrystalMath.)_
 * STA347 (Probability Theory I)
 * FSL421 (French IV)
 * _In progress:_
-  - STA305 (Design and Analysis of Experiments)
+  - STA305/1004 (Design and Analysis of Experiments)
 * _Courses I plan to take in the future:_
   - EAS120 (Modern Standard Japanese I)
   - STA314 (Statistical Methods for Machine Learning I)
   - MAT337 (Intro to Real Analysis)
   - APM462 (Nonlinear Optimization)
-  - STA442 (Methods of Applied Statistics)
-  - STA437 (Methods for Multivariate Data)
-  - STA457 (Time Series Analysis)
+  - STA442/2101 (Methods of Applied Statistics)
+  - STA437/2005 (Methods for Multivariate Data)
+  - STA457/2202 (Time Series Analysis)
