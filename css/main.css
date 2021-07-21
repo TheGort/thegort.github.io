@@ -91,11 +91,8 @@ p {
 @media screen and (max-width: 900px) {
    
    * {
-	   font-size: 1.5rem;
+	   font-size: 1.3rem;
    }
-   
-   p {
-	   font-size: 1.5rem;
-   }
+
 
 }
