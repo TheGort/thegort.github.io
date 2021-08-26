@@ -25,6 +25,30 @@ I am comfortable with the following languages/applications:
 * SQL
 * Tableau  
 
+## Experience
+----
+
+<p style = "float:right;">August 2021 - Present</p>
+**STA130 Mentorship Program**
+* Supporting first-year students with navigating life in university, fostering communities and friendships, and guiding them in the field of statistics (training is in progress)
+* Creating and hosting social events to encourage community building and adhering to administrative functions
+
+<p style = "float:right;">Summer 2021</p>
+**Research Assistant**
+* Currently assisting Professor Scott Schieman in his research regarding work, stress, and health among Canadians, with special attention to the effects of the pandemic.
+* Using Python libraries such as NumPy and pandas to analyze and categorize open-ended survey data about Canadians working from home during COVID-19.
+
+<p style = "float: right;">Summer 2019</p>
+**Canadian National Exhibition, Lead Attendant/Housekeeper** 
+* Managed a team and surveyed the grounds, ensuring everyone was doing their work and occasionally helped out with cleaning and other duties
+* Worked independently and with other staff as needed
+
+<p style = "float: right;">2018 - 2019</p>
+**Tutor**
+* Planned and organized one-on-one tutoring sessions in-person as well as Skype/Discord to high school students and people all around the world
+* Topics include: introduction to programming, logic, discrete mathematics and basic algebra
+* Some videos can still be found on my YouTube channel (as a side note, I really want to produce educational content again, but I've been extremely busy with school.)
+
 ## Projects 
 #### (Please click the hyperlinks to view my work.)
 ----
@@ -52,25 +76,6 @@ I am comfortable with the following languages/applications:
 * Implemented multiple linear regression in order to help home buyers predict sale price of homes in the GTA for a school assignment
 * Analyzed diagnostic plots and used the Akaike/Bayesian information criterion for optimal probabilistic model selection
 
-## Experience
-----
-
-<p style = "float:right;">June 2021 - Present</p>
-**Research Assistant**
-* Currently assisting Professor Scott Schieman in his research regarding work, stress, and health among Canadians, with special attention to the effects of the pandemic.
-* Using Python libraries such as NumPy and pandas to analyze and categorize open-ended survey data about Canadians working from home during COVID-19.
-
-<p style = "float: right;">2018 - 2019</p>
-**Tutor**
-* Planned and organized one-on-one tutoring sessions in-person as well as Skype/Discord to high school students and people all around the world
-* Topics include: introduction to programming, logic, discrete mathematics and basic algebra
-* Some videos can still be found on my YouTube channel (as a side note, I really want to produce educational content again, but I've been extremely busy with school.)
-
-<p style = "float: right;">Summer 2019</p>
-**Canadian National Exhibition, Lead Attendant/Housekeeper** 
-* Managed a team and surveyed the grounds, ensuring everyone was doing their work and occasionally helped out with cleaning and other duties
-* Worked independently and with other staff as needed
-
 ## Relevant Courses
 ----
 Here is an exhaustive list of relevant courses I have taken so far (and courses I intend on taking):
@@ -97,7 +102,6 @@ Here is an exhaustive list of relevant courses I have taken so far (and courses 
   - STA305/1004 (Design and Analysis of Experiments)
 * _Courses I plan to take in the future:_
   - EAS120 (Modern Standard Japanese I)
-  - STA314 (Statistical Methods for Machine Learning I)
   - MAT337 (Intro to Real Analysis)
   - APM462 (Nonlinear Optimization)
   - STA442/2101 (Methods of Applied Statistics)
