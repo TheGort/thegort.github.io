@@ -23,6 +23,6 @@ You'll find that I upload all sorts of content, ranging from video games, educat
 If anybody ever wondered what I listen to, follow me on [Spotify.](https://open.spotify.com/user/6r2g75pi5l7e863bglv83pzj9?si=CZbhiKIdRq2NqdZcS2SdHQ){:target="_blank"}  
 I like listening to trap, pop, hip-hop, and I listen to k-pop every now and then.  
 My favorite artists are Travis Scott, _hit rapper and artist_, DaBaby, and unfortunately, Playboi Carti.  
-Favorite song right now: Cancún by Playboi Carti.
+Favorite song right now: Junya by Kanye West and Playboi Carti (Pt. 2 also slaps).
 
 `It's truly a small, yet big world out there, folks. Enjoy the time we have.`

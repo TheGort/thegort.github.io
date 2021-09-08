@@ -28,22 +28,22 @@ I am comfortable with the following languages/applications:
 ## Experience
 ----
 
-<p style = "float:right;">August 2021 - Present</p>
+<p style = "float:right;"><b>August 2021 - Present</b></p>
 **STA130 Mentorship Program**
 * Supporting first-year students with navigating life in university, fostering communities and friendships, and guiding them in the field of statistics (training is in progress)
 * Creating and hosting social events to encourage community building and adhering to administrative functions
 
-<p style = "float:right;">Summer 2021</p>
+<p style = "float:right;"><b>Summer 2021</b></p>
 **Research Assistant**
 * Currently assisting Professor Scott Schieman in his research regarding work, stress, and health among Canadians, with special attention to the effects of the pandemic.
-* Using Python libraries such as NumPy and pandas to analyze and categorize open-ended survey data about Canadians working from home during COVID-19.
+* Used **Python** libraries such as **NumPy** and **pandas** to analyze and categorize open-ended survey data with over 3000 entries about Canadians working from home during COVID-19.
 
-<p style = "float: right;">Summer 2019</p>
+<p style = "float: right;"><b>Summer 2019</b></p>
 **Canadian National Exhibition, Lead Attendant/Housekeeper** 
 * Managed a team and surveyed the grounds, ensuring everyone was doing their work and occasionally helped out with cleaning and other duties
 * Worked independently and with other staff as needed
 
-<p style = "float: right;">2018 - 2019</p>
+<p style = "float: right;"><b>2018 - 2019</b></p>
 **Tutor**
 * Planned and organized one-on-one tutoring sessions in-person as well as Skype/Discord to high school students and people all around the world
 * Topics include: introduction to programming, logic, discrete mathematics and basic algebra
@@ -56,7 +56,7 @@ I am comfortable with the following languages/applications:
 [**Report on the Effect of Mortality Rate and Alcohol Consumption Using RDD (R)**]({{ site.url }}/assets/sta304_project.pdf){:target="_blank"}
 * Individual school project aimed to replicate and extend Carpenter's and Dobkin's 2009 study on mortality rate and alcohol consumption
 * Applied linear and quadratic regression discontinuity methods, using minimum legal drinking age as the threshold
-* Used dplyr and tidyverse to clean data, and ggplot2 + knitr to visualize and present results.
+* Used **dplyr** and **tidyverse** to clean data, and **ggplot2** + **knitr** to visualize and present results.
 
 [**Statistical Analysis of Gender Parity (R)**]({{ site.url }}/assets/sta303_project.pdf){:target="_blank"}
 * Worked in a group for a school project as a consulting firm to assess gender parity in hiring, wages, and promotions for a fictitious software company
@@ -65,11 +65,11 @@ I am comfortable with the following languages/applications:
 
 **League of Legends Data Analysis (R, Python)**
 * Made a report trying to establish a relationship between rank in League of Legends and predictors such as total number of games played, wins, summoner level, etc. using linear regression
-* Used Python's NumPy and pandas libraries to extract and organize data, and R to conduct regression analyses.
+* Used **Python's** **NumPy** and **pandas** libraries to extract and organize data, and **R** to conduct regression analyses.
 * (The first version/attempt of my report has been completed, but I am refining the methods and procedures to make a second part.)
 
 [**Data Visualization for COVID-19 Cases in Toronto (R)**]({{ site.url }}/assets/sta303_data-exploration_final.pdf){:target="_blank"}
-* Extensively used tidyr and dplyr libraries to wrangle, parse and transform real-time data from the City of Toronto website on COVID-19 cases in all 140 neighborhoods for a school assignment
+* Extensively used **tidyr** and **dplyr** libraries to wrangle, parse and transform real-time data from the City of Toronto website on COVID-19 cases in all 140 neighborhoods for a school assignment
 * Used ggplot to visualize daily cases, outbreak types, and thematic maps that illustrate the percentage of low-income families and the proportion of COVID-19 cases by region
 
 [**Comparing Complex Multiple Linear Models for Toronto and Mississauga House Prices (R)**]({{ site.url }}/assets/sta302_a3.pdf){:target="_blank"}
@@ -95,15 +95,15 @@ Here is an exhaustive list of relevant courses I have taken so far (and courses 
 * STA302/1001 (Methods of Data Analysis I)
 * STA303/1002 (Methods of Data Analysis II)
 * STA304/1003 (Surveys, Sampling and Observational Data)
+* STA305/1004 (Design and Analysis of Experiments)
 * MAT334 (Complex Variables) _(I love you, Petra Bonfert Taylor and CrystalMath.)_
 * STA347 (Probability Theory I)
 * FSL421 (French IV)
 * _In progress:_
-  - STA305/1004 (Design and Analysis of Experiments)
-* _Courses I plan to take in the future:_
   - EAS120 (Modern Standard Japanese I)
   - MAT337 (Intro to Real Analysis)
   - APM462 (Nonlinear Optimization)
   - STA442/2101 (Methods of Applied Statistics)
   - STA437/2005 (Methods for Multivariate Data)
   - STA457/2202 (Time Series Analysis)
+  - STA496 (Readings in Statistics) with Professor Liza Bolton.
