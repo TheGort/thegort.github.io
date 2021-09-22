@@ -23,19 +23,19 @@ I am comfortable with the following languages/applications:
 * Git/GitHub
 * HTML & CSS
 * SQL
-* Tableau  
+* Tableau
 
 ## Experience
 ----
 
 <p style = "float:right;"><b>August 2021 - Present</b></p>
 **STA130 Mentorship Program**
-* Supporting first-year students with navigating life in university, fostering communities and friendships, and guiding them in the field of statistics (training is in progress)
+* Supporting first-year students with navigating life in university, fostering communities and friendships, and guiding them in the field of statistics
 * Creating and hosting social events to encourage community building and adhering to administrative functions
 
 <p style = "float:right;"><b>Summer 2021</b></p>
 **Research Assistant**
-* Currently assisting Professor Scott Schieman in his research regarding work, stress, and health among Canadians, with special attention to the effects of the pandemic.
+* Assisted Professor Scott Schieman in his research regarding work, stress, and health among Canadians, with special attention to the effects of the pandemic.
 * Used **Python** libraries such as **NumPy** and **pandas** to analyze and categorize open-ended survey data with over 3000 entries about Canadians working from home during COVID-19.
 
 <p style = "float: right;"><b>Summer 2019</b></p>
@@ -60,8 +60,9 @@ I am comfortable with the following languages/applications:
 
 [**Statistical Analysis of Gender Parity (R)**]({{ site.url }}/assets/sta303_project.pdf){:target="_blank"}
 * Worked in a group for a school project as a consulting firm to assess gender parity in hiring, wages, and promotions for a fictitious software company
-* Used statistical inference to evaluate multiple generalized linear (mixed) models
+* Used statistical inference to evaluate multiple generalized linear (mixed) models and checked assumptions where necessary
 * Applied linear, logistic, and poisson regression to wrangled datasets in order to interpret summaries and confidence intervals
+* Liza Bolton (my past instructor for STA303) summarizes the project very well [here:](https://www.lizabolton.com/sta303_winter21_note){:target="_blank"}  
 
 **League of Legends Data Analysis (R, Python)**
 * Made a report trying to establish a relationship between rank in League of Legends and predictors such as total number of games played, wins, summoner level, etc. using linear regression
@@ -106,4 +107,4 @@ Here is an exhaustive list of relevant courses I have taken so far (and courses 
   - STA442/2101 (Methods of Applied Statistics)
   - STA437/2005 (Methods for Multivariate Data)
   - STA457/2202 (Time Series Analysis)
-  - STA496 (Readings in Statistics) with Professor Liza Bolton.
+  - STA497 (Readings in Statistics) with Professor Liza Bolton.

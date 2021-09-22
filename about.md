@@ -4,7 +4,7 @@ title: About Me
 ---
 # About Me
 
-![image](/assets/images/cocosponsor.jpg){:height="400px" width="550px"}
+![image](/assets/images/wow.jpg){:height="350px" width="630px"}
 
 Hey! Thanks for taking the time to check me out.
 
