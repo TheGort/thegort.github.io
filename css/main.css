@@ -1,12 +1,16 @@
 * {
     font-size: 1rem;
+	font-family: 'Montserrat', sans-serif;
+}
+hr {
+	margin: 0;
 }
 body {
     margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Courier New', monospace;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -17,8 +21,8 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    font-size: 1.3rem;
-    color: #999;
+    font-size: 1.2rem;
+    color: #18a3c9;
 }
 a:hover {
     text-decoration: underline;
@@ -26,7 +30,7 @@ a:hover {
 
 h3 {
     font-size: 1.3rem;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Courier New', monospace;
 }
 h4 {
 	margin-block-start: 0em;
@@ -40,19 +44,16 @@ footer {
 
 ul { 
     font-size: 1.5rem;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 	margin: 0px;
 }
 
 li {
 	font-size: 1rem;
-	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 	margin: 0px;
 }
 
 ul li {
     list-style-type: circle;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 div {
@@ -69,21 +70,17 @@ em {
 
 h1 {
     font-size: 2rem;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
     font-size: 1.5rem;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 	margin-bottom: 0px;
 	margin-block-start: 0.5em;
-	margin-block-end: 0.5em;
 }
 
 p {
     font-size: 1rem;
     line-height: 1.4rem;
     color: #333;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 	margin-block-start: 0.5em;
 	margin-block-end: 0.5em;
 }

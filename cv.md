@@ -7,7 +7,7 @@ If you would like to see my actual resume, you can view it [**here.**]({{ site.u
 
 ## Education  
 ----
-<p style="float: right;">Sep 2018 - June 2022</p>
+<p style="float: right;"><b>Sep 2018 - June 2022</b></p>
 **University of Toronto (St. George)**  
 BSc. Mathematics and Statistics Specialist  
 **Campus Involvement:**
@@ -47,7 +47,7 @@ I am comfortable with the following languages/applications:
 **Tutor**
 * Planned and organized one-on-one tutoring sessions in-person as well as Skype/Discord to high school students and people all around the world
 * Topics include: introduction to programming, logic, discrete mathematics and basic algebra
-* Some videos can still be found on my YouTube channel (as a side note, I really want to produce educational content again, but I've been extremely busy with school.)
+* Some videos can still be found on my YouTube channel with ~600 cumulative views (as a side note, I really want to produce educational content again, but I've been extremely busy with school.)
 
 ## Projects 
 #### (Please click the hyperlinks to view my work.)
