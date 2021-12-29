@@ -52,6 +52,13 @@ I am comfortable with the following languages/applications:
 * Composed and produced classroom material, lesson plans, and mock homework/exams for topics such as intro to programming, discrete mathematics, and algebra
 * Some videos can still be found on my YouTube channel with ~600 cumulative views (as a side note, I really want to produce educational content again, but I've been extremely busy with school.)
 
+<p style = "float: right;"><b>Summer 2017</b></p>
+**Software Engineer (Co-op)**  
+*HipPOS Software Inc.*
+* Utilized quality assurance testing methodologies such as non-functional/acceptance testing to identify, document, and report bugs in the point-of-sale software
+* Worked with off-site teams to complete timely tests and ensure smooth product releases
+* Developed a web portal for cloud-based error logging/debugging by using the ASP.NET MVC design pattern in **C#**
+
 ## Projects 
 #### (Please click the hyperlinks to view my work.)
 ----
