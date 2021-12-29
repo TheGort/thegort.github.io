@@ -4,25 +4,25 @@ title: About Me
 ---
 # About Me
 
-![image](/assets/images/wow.jpg){:height="350px" width="630px"}
+![image](/assets/images/wholenewworld.jpg){:height="350px" width="630px"}
 
 Hey! Thanks for taking the time to check me out.
 
-In summary, I am an undergraduate who is looking to learn more about the applications in the statistical sciences. I enjoy concepts including regression analysis and probability theory. In the future, I 
-hope to deepen this knowledge and take more advanced courses related to these subjects.
+In summary, I am an undergraduate who is looking to learn more about the applications in the statistical sciences. I enjoy concepts including regression analysis, probability theory, and ethical practice for statisticians. 
+In the future, I hope to deepen this knowledge and take more advanced courses related to these subjects.
 
 My hobbies include video games, cinematography/video editing, and making people smile.
 
-I enjoy playing Valorant, League of Legends, Stardew Valley, Sid Meier's Civilization and many other games [(check out my Steam profile here)](https://steamcommunity.com/id/thegortisthebestrightnow/){:target="_blank"}.
-If you'd ever like to join my friends and I sometime, add me on Discord via TheGort#5051.
+I enjoy playing Valorant, League of Legends, Stardew Valley, Teamfight Tactics, and many other games [(check out my Steam profile here)](https://steamcommunity.com/id/thegortisthebestrightnow/){:target="_blank"}.
+If you'd ever like to join my friends and I sometime, add me on Discord via TheGort#5051 (send me a message to let me know who you are first!).
 
 I also have a YouTube channel which you can check out [here.](https://www.youtube.com/channel/UCaaYCWSM01Ke6LqG100zg0A){:target="_blank"}  
 I haven't been posting because I'm very busy with school, but I hope to find the time to continue.  
 You'll find that I upload all sorts of content, ranging from video games, educational videos, reviews to skits. It's a channel about me!
 
 If anybody ever wondered what I listen to, follow me on [Spotify.](https://open.spotify.com/user/6r2g75pi5l7e863bglv83pzj9?si=CZbhiKIdRq2NqdZcS2SdHQ){:target="_blank"}  
-I like listening to trap, pop, hip-hop, and I listen to k-pop every now and then.  
-My favorite artists are Travis Scott, _hit rapper and artist_, DaBaby, and unfortunately, Playboi Carti.  
-Favorite song right now: Junya by Kanye West and Playboi Carti (Pt. 2 also slaps).
+I like listening to trap, pop, hip-hop, and k-pop every now and then.  
+My favorite artists are Playboi Carti, Kanye West, and Silk Sonic.  
+Favorite song right now: Either *R.I.P* or *Sky* by Playboi Carti.
 
 `It's truly a small, yet big world out there, folks. Enjoy the time we have.`
