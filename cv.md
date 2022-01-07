@@ -9,20 +9,10 @@ If you would like to see my actual resume, you can view it [**here.**]({{ site.u
 ----
 <p style="float: right;"><b>Sep 2018 - June 2022</b></p>
 **University of Toronto (St. George)**  
-BSc. Mathematics and Statistics Specialist  
+HBSc. Mathematics and Statistics Specialist  
 **Campus Involvement:**
 * Events and Logistics Coordinator, University of Toronto Vietnamese Students Association
 	- Responsible for micromanaging all detailed event logistics including event itineraries, inventory lists and executive roles to plan official social gatherings that incorporate safe and inclusive practices 
-
-## Technical Skills
-----
-I am comfortable with the following languages/applications:
-* Python (NumPy, pandas)
-* R (dplyr, tidyverse, ggplot2, knitr)
-* Git/GitHub
-* HTML & CSS
-* SQL
-* Tableau
 
 ## Experience
 ----
@@ -40,7 +30,8 @@ I am comfortable with the following languages/applications:
 * Attended weekly project meetings, presenting summaries regarding the pros and cons of working remotely based on data
 
 <p style = "float: right;"><b>Summer 2019</b></p>
-**Canadian National Exhibition, Lead Attendant/Housekeeper** 
+**Lead Attendant/Housekeeper**  
+*Canadian National Exhibition*
 * Managed a team of 6 to help maintain the exhibition grounds by effectively communicating required tasks, coordinating with other sub teams, and upholding professionalism
 * Constantly switched between tasks including waste management, housekeeping, supervising, surveying the grounds, and helping customers
 * Reported daily progress and check-ins to lead supervisors in a concise manner
@@ -94,6 +85,16 @@ in the scientific community and everyday media consumption
 * Implemented multiple linear regression in order to help home buyers predict sale price of homes in the GTA for a school assignment
 * Analyzed diagnostic plots and used the Akaike/Bayesian information criterion for optimal probabilistic model selection
 
+## Technical Skills
+----
+I am comfortable with the following languages/applications:
+* Python (NumPy, pandas)
+* R (dplyr, tidyverse, ggplot2, knitr)
+* Git/GitHub
+* HTML & CSS
+* SQL
+* Tableau
+
 ## Relevant Courses
 ----
 Here is an exhaustive list of relevant courses I have taken so far (and courses I intend on taking):
@@ -120,7 +121,6 @@ Here is an exhaustive list of relevant courses I have taken so far (and courses 
 * STA437/2005 (Methods for Multivariate Data)
 * STA457/2202 (Time Series Analysis)
 * _In progress:_
-  - EAS120 (Modern Standard Japanese I)
   - MAT337 (Intro to Real Analysis)
   - APM462 (Nonlinear Optimization)
   - STA442/2101 (Methods of Applied Statistics)
