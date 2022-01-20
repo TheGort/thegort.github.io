@@ -10,9 +10,10 @@ If you would like to see my actual resume, you can view it [**here.**]({{ site.u
 <p style="float: right;"><b>Sep 2018 - June 2022</b></p>
 **University of Toronto (St. George)**  
 HBSc. Mathematics and Statistics Specialist  
-**Campus Involvement:**
-* Events and Logistics Coordinator, University of Toronto Vietnamese Students Association
-	- Responsible for micromanaging all detailed event logistics including event itineraries, inventory lists and executive roles to plan official social gatherings that incorporate safe and inclusive practices 
+**Campus Involvement:**  
+University of Toronto Vietnamese Students Association  
+*Events and Logistics Coordinator*  
+* Responsible for micromanaging all detailed event logistics including event itineraries, inventory lists and executive roles to plan official social gatherings that incorporate safe and inclusive practices 
 
 ## Experience
 ----
@@ -26,7 +27,7 @@ HBSc. Mathematics and Statistics Specialist
 <p style = "float:right;"><b>Summer 2021</b></p>
 **Research Assistant**
 * Assisted Professor Scott Schieman in his research regarding work, stress, and health among Canadians, with special attention to the effects of the pandemic
-* Used Python libraries such as NumPy and pandas, as well as Excel to analyze and categorize open-ended survey data with over 3000 entries about Canadians working from home during COVID-19.
+* Used Python libraries such as NumPy and pandas, as well as Excel to analyze, categorize, and visualize open-ended survey data with over 3000 entries about Canadians working from home during COVID-19.
 * Attended weekly project meetings, presenting summaries regarding the pros and cons of working remotely based on data
 
 <p style = "float: right;"><b>Summer 2019</b></p>
@@ -84,6 +85,10 @@ in the scientific community and everyday media consumption
 [**Comparing Complex Multiple Linear Models for Toronto and Mississauga House Prices (R)**]({{ site.url }}/assets/sta302_a3.pdf){:target="_blank"}
 * Implemented multiple linear regression in order to help home buyers predict sale price of homes in the GTA for a school assignment
 * Analyzed diagnostic plots and used the Akaike/Bayesian information criterion for optimal probabilistic model selection
+
+## Publications
+----
+Pham, D., & Bolton, L. (2022). *Misuse of Statistics: How Not to be an A\*\*hole.* (W.I.P)
 
 ## Technical Skills
 ----
