@@ -8,8 +8,8 @@ title: About Me
 
 Hey! Thanks for taking the time to check me out.
 
-In summary, I am an undergraduate who is looking to learn more about the applications in the statistical sciences. I enjoy concepts including regression analysis, probability theory, and ethical practice for statisticians. 
-In the future, I hope to deepen this knowledge and take more advanced courses related to these subjects.
+In summary, I am a new grad who is looking to learn more about the applications in the statistical sciences. I enjoy concepts including regression analysis, probability theory, and ethical practice for statisticians. 
+In the future, I hope to deepen this knowledge and use my skills to make the world a better place.
 
 My hobbies include video games, cinematography/video editing, and making people smile.
 
@@ -22,7 +22,7 @@ You'll find that I upload all sorts of content, ranging from video games, educat
 
 If anybody ever wondered what I listen to, follow me on [Spotify.](https://open.spotify.com/user/6r2g75pi5l7e863bglv83pzj9?si=CZbhiKIdRq2NqdZcS2SdHQ){:target="_blank"}  
 I like listening to trap, pop, hip-hop, and k-pop every now and then.  
-My favorite artists are Playboi Carti, Kanye West, and Silk Sonic.  
-Favorite song right now: Either *R.I.P* or *Sky* by Playboi Carti.
+My favorite artists are Playboi Carti, Silk Sonic, and EXO.  
+Favorite song right now: *R.I.P* by Playboi Carti.
 
 `It's truly a small, yet big world out there, folks. Enjoy the time we have.`
