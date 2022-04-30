@@ -128,8 +128,7 @@ Here is an exhaustive list of relevant courses I have taken so far (and courses 
 * FSL421 (French IV)
 * STA437/2005 (Methods for Multivariate Data)
 * STA457/2202 (Time Series Analysis)
-* _In progress:_
-  - MAT337 (Intro to Real Analysis)
-  - APM462 (Nonlinear Optimization)
-  - STA442/2101 (Methods of Applied Statistics)
-  - STA497 (Readings in Statistics) with Professor Liza Bolton.
+* MAT337 (Intro to Real Analysis)
+* APM462 (Nonlinear Optimization)
+* STA442/2101 (Methods of Applied Statistics)
+* STA497 (Readings in Statistics) with Professor Liza Bolton. Thanks, Liza!!! :)

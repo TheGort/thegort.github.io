@@ -4,11 +4,11 @@ title: About Me
 ---
 # About Me
 
-![image](/assets/images/wholenewworld.jpg){:height="350px" width="630px"}
+![image](/assets/images/wholenewworld.jpg){:height="450px" width="730px"}
 
 Hey! Thanks for taking the time to check me out.
 
-In summary, I am a new grad who is looking to learn more about the applications in the statistical sciences. I enjoy concepts including regression analysis, probability theory, and ethical practice for statisticians. 
+In summary, I am a new grad who is looking to learn more about the applications in the statistical sciences. I enjoy concepts such as regression analysis, probability theory, and ethical practice for statisticians. 
 In the future, I hope to deepen this knowledge and use my skills to make the world a better place.
 
 My hobbies include video games, cinematography/video editing, and making people smile.
