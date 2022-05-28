@@ -32,8 +32,8 @@ University of Toronto Vietnamese Students Association
 <p style = "float:right;"><b>May 2021 - Sep 2021</b></p>
 **Research Assistant**
 * Assisted a sociology professor in his research regarding work, stress, and health among Canadians, with special attention to the effects of the pandemic
-* Used Python libraries such as NumPy and pandas, as well as Excel to analyze, categorize, and visualize open-ended survey data with over 3000 entries about Canadians working from home during COVID-19
-* Attended weekly project meetings, presenting summaries regarding the pros and cons of working remotely based on data
+* Used **Python** libraries such as **NumPy** and **pandas**, as well as **Excel** to analyze, categorize, and visualize open-ended survey data with over 3000 entries about Canadians working from home during COVID-19
+* Visualized findings with statistical tables using **Excel** and **R**, and presented summaries in a concise manner
 
 <p style = "float: right;"><b>Apr 2019 - Aug 2019</b></p>
 **Lead Attendant/Housekeeper**  
@@ -47,7 +47,7 @@ University of Toronto Vietnamese Students Association
 * Planned and organized one-on-one tutoring sessions to high school students and people all over the world
 * Used a variety of teaching methods depending on individual student learning style, including online video calls, YouTube videos, and in-person lessons
 * Composed and produced classroom material, lesson plans, and mock homework/exams for topics such as intro to programming, discrete mathematics, and algebra
-* Some videos can still be found on my YouTube channel with ~600 cumulative views (as a side note, I really want to produce educational content again, but I've been extremely busy with school.)
+* Some videos can still be found on my YouTube channel with ~600 cumulative views
 
 <p style = "float: right;"><b>May 2017 - Sep 2017</b></p>
 **Software Engineer (Co-op)**  
@@ -59,9 +59,9 @@ University of Toronto Vietnamese Students Association
 ## Projects 
 #### (Please click the hyperlinks to view my work.)
 ----
-**Independent Readings Course – Ethical Practice for Statisticians**
+[**Independent Readings Course – Ethical Practice for Statisticians**]({{ site.url }}/assets/final_report.pdf){:target="_blank"}
 * Was selected to be 1 of 3 students to explore the misuse of statistics in the scientific community and everyday media consumption
-* Wrote an educative piece using RMarkdown to spread awareness of statistical literacy and ethics, and used Zotero + BiBTeX to manage references
+* Wrote an educative piece using **RMarkdown** to spread awareness of statistical literacy and ethics, and used **Zotero + BiBTeX** to manage references
 * Conducted seminars and research presentations for cohort to synthesise findings and key ideas from a large range of sources
 
 [**Statistical Analysis of Gender Parity (R)**]({{ site.url }}/assets/sta303_project.pdf){:target="_blank"}
@@ -69,7 +69,7 @@ University of Toronto Vietnamese Students Association
 * Merged and wrangled large datasets to create data visualizations and summaries using **dplyr** and **ggplot2**
 * Used judgment to choose appropriate generalized linear (mixed) models, checked their assumptions, and justified the selection in confidence intervals and significance testing
 * Balanced the workload as a team and created a seamless report with reproducible code by using **RMarkdown**
-* Liza Bolton (my past instructor for STA303) summarizes the project very well [here:](https://www.lizabolton.com/sta303_winter21_note){:target="_blank"}  
+* Liza Bolton (my past instructor for STA303) summarizes the project very well [**here:**](https://www.lizabolton.com/sta303_winter21_note){:target="_blank"}  
 
 **League of Legends Data Analysis (R, Python)**
 * Made a report trying to establish a relationship between rank in League of Legends and predictors such as total number of games played, wins, summoner level, etc. using linear regression
@@ -89,10 +89,6 @@ University of Toronto Vietnamese Students Association
 * Implemented multiple linear regression in order to help home buyers predict sale price of homes in the GTA for a school assignment
 * Analyzed diagnostic plots and used the Akaike/Bayesian information criterion for optimal probabilistic model selection
 
-## Publications
-----
-Pham, D., & Bolton, L. (2022). *Misuse of Statistics: How Not to be an A\*\*hole.* (W.I.P)
-
 ## Technical Skills
 ----
 I am comfortable with the following languages/applications:
@@ -105,7 +101,7 @@ I am comfortable with the following languages/applications:
 
 ## Relevant Courses
 ----
-Here is an exhaustive list of relevant courses I have taken so far (and courses I intend on taking):
+Here is an exhaustive list of relevant courses I have taken:
 * CSC108 (Intro to Programming)
 * STA130 (Statistical Reasoning)
 * MAT137 (Calculus!)
