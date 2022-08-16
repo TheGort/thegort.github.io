@@ -3,6 +3,8 @@ layout: default
 title: David Pham's CV
 ---
 # David Pham's Digital Curriculum Vitae
+This page contains all my work and project history. 
+
 If you would like to see my actual resume, you can view it [**here.**]({{ site.url }}/assets/resume_davidpham.pdf){:target="_blank"}
 
 ## Education  
@@ -11,43 +13,49 @@ If you would like to see my actual resume, you can view it [**here.**]({{ site.u
 **University of Toronto (St. George)**  
 HBSc. Mathematics and Statistics Specialist  
 **Campus Involvement:**  
-University of Toronto Vietnamese Students Association  
-*Events and Logistics Coordinator*  
+Events and Logistics Coordinator  
+*University of Toronto Vietnamese Students Association*  
+* Collaborated with 20 executives among 5 sub teams to facilitate and successfully organize 12 bi-weekly social, cultural, and academic events for 250+ club and community members
 * Responsible for micromanaging all detailed event logistics including event itineraries, inventory lists and executive roles to plan official social gatherings that incorporate safe and inclusive practices 
 
 ## Experience
 ----
 <p style = "float:right;"><b>Jan 2022 - Apr 2022</b></p>
-**Research Assistant**
-* Planned and developed a statistics-themed virtual escape room for the Department of Statistical Sciences (DoSS) to promote statistics education by using **R**, Zoom, and Gather Town
-* Created social media content around ethical practice and statistical literacy resulting in over 3000 impressions and 400 combined engagements from UofT's DoSS pages
-* Coordinated with professors and other research assistants as a team to ensure smooth release of posts, and delivery of the escape room
+**Research Assistant (Statistics Education Developer)** 
+
+*University of Toronto Department of Statistical Sciences* 
+* Planned and developed a statistics-themed virtual escape room for UofT's Department of Statistical Sciences (DoSS) to promote statistics education by using **R**, Zoom, and Gather Town
+* Created social media content around ethical practice and statistical literacy resulting in over 3500 impressions and 400 combined engagements from UofT's DoSS pages
+* Coordinated with professors and 29 other research assistants as a team to ensure smooth release of posts and delivery of the escape room
 
 <p style = "float:right;"><b>Aug 2021 - Apr 2022</b></p>
-**STA130 Mentorship Program**
+**Peer Mentor (STA130 Mentorship Program)**
+
+*University of Toronto Department of Statistical Sciences* 
 * Led one-on-one meetings with up to 60 mentees to talk about navigating life in university, as well as discussing their academic goals and objectives
-* Established/maintained respectful, positive, and professional mentoring relationships with students
-* Collaborated with other mentors to help plan and facilitate social events in order to encourage community building and offer academic/career advice
+* Established positive and professional mentoring relationships with students, and maintained a 100% satisfaction rate
+* Collaborated with other mentors to help plan and facilitate social events to encourage community building and offer academic/career-oriented advice
 
 <p style = "float:right;"><b>May 2021 - Sep 2021</b></p>
 **Research Assistant**
+
+*University of Toronto* 
 * Assisted a sociology professor in his research regarding work, stress, and health among Canadians, with special attention to the effects of the pandemic
 * Used **Python** libraries such as **NumPy** and **pandas**, as well as **Excel** to analyze, categorize, and visualize open-ended survey data with over 3000 entries about Canadians working from home during COVID-19
 * Visualized findings with statistical tables using **Excel** and **R**, and presented summaries in a concise manner
+
+<p style = "float: right;"><b>Jan 2018 - Nov 2019</b></p>
+**Tutor**
+* Planned and organized 1-1 tutoring sessions to high school students and people all over the world
+* Used a variety of teaching methods depending on individual student learning style, including online video calls, in-person lessons, and YouTube videos with ~700 cumulative views
+* Composed and produced classroom material, lesson plans, and mock homework/exams for topics such as intro to programming, discrete mathematics, and algebra
 
 <p style = "float: right;"><b>Apr 2019 - Aug 2019</b></p>
 **Lead Attendant/Housekeeper**  
 *Canadian National Exhibition*
 * Managed a team of 6 to help maintain the exhibition grounds by effectively communicating required tasks, coordinating with other sub teams, and upholding professionalism
 * Constantly switched between tasks including waste management, housekeeping, supervising, surveying the grounds, and helping customers
-* Reported daily progress and check-ins to lead supervisors in a concise manner
-
-<p style = "float: right;"><b>Jan 2018 - Aug 2019</b></p>
-**Tutor**
-* Planned and organized one-on-one tutoring sessions to high school students and people all over the world
-* Used a variety of teaching methods depending on individual student learning style, including online video calls, YouTube videos, and in-person lessons
-* Composed and produced classroom material, lesson plans, and mock homework/exams for topics such as intro to programming, discrete mathematics, and algebra
-* Some videos can still be found on my YouTube channel with ~600 cumulative views
+* Reported daily progress and check-ins to lead supervisors in an organized fashion
 
 <p style = "float: right;"><b>May 2017 - Sep 2017</b></p>
 **Software Engineer (Co-op)**  
@@ -61,11 +69,11 @@ University of Toronto Vietnamese Students Association
 ----
 [**Independent Readings Course – Ethical Practice for Statisticians**]({{ site.url }}/assets/final_report.pdf){:target="_blank"}
 * Was selected to be 1 of 3 students to explore the misuse of statistics in the scientific community and everyday media consumption
-* Wrote an educative piece using **RMarkdown** to spread awareness of statistical literacy and ethics, and used **Zotero + BiBTeX** to manage references
+* Wrote a 9-page educative piece using **RMarkdown** to spread awareness of statistical literacy and ethics, and used **Zotero + BiBTeX** to manage references
 * Conducted seminars and research presentations for cohort to synthesise findings and key ideas from a large range of sources
 
 [**Statistical Analysis of Gender Parity (R)**]({{ site.url }}/assets/sta303_project.pdf){:target="_blank"}
-* Worked in a group for a school project as a consulting firm to assess gender parity in hiring, wages, and promotions for a fictitious software company
+* Worked in a group of 4 for a school project as a consulting firm to assess gender parity in hiring, wages, and promotions for a fictitious software company
 * Merged and wrangled large datasets to create data visualizations and summaries using **dplyr** and **ggplot2**
 * Used judgment to choose appropriate generalized linear (mixed) models, checked their assumptions, and justified the selection in confidence intervals and significance testing
 * Balanced the workload as a team and created a seamless report with reproducible code by using **RMarkdown**
@@ -98,6 +106,7 @@ I am comfortable with the following languages/applications:
 * HTML & CSS
 * SQL
 * Tableau
+* Microsoft Excel and Access
 
 ## Relevant Courses
 ----
