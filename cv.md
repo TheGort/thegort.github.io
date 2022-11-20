@@ -20,6 +20,13 @@ Events and Logistics Coordinator
 
 ## Experience
 ----
+<p style = "float:right;"><b>Oct 2022 - Present</b></p>
+**Bilingual Data Analyst**
+
+*Council of Ministers of Education, Canada*
+
+&nbsp;
+
 <p style = "float:right;"><b>Jan 2022 - Apr 2022</b></p>
 **Research Assistant (Statistics Education Developer)** 
 

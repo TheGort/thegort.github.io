@@ -19,7 +19,7 @@ My hobbies include video games, cinematography/video editing, and making people 
 
 &nbsp;
 
-I enjoy playing League of Legends, Valorant, Stardew Valley, Teamfight Tactics, Deep Rock Galactic, and many other games [**(check out my Steam profile here)**](https://steamcommunity.com/id/thegortisthebestrightnow/){:target="_blank"}.
+I enjoy playing League of Legends, Valorant, Stardew Valley, Teamfight Tactics, and many other games [**(check out my Steam profile here)**](https://steamcommunity.com/id/thegortisthebestrightnow/){:target="_blank"}.
 If you'd ever like to join my friends and I sometime, add me on Discord via TheGort#5051 (send me a message to let me know who you are first!).
 
 &nbsp;
@@ -33,7 +33,7 @@ You'll find that I upload all sorts of content, ranging from video games, educat
 If anybody ever wondered what I listen to, follow me on [**Spotify.**](https://open.spotify.com/user/6r2g75pi5l7e863bglv83pzj9?si=CZbhiKIdRq2NqdZcS2SdHQ){:target="_blank"}  
 I like listening to trap, pop, hip-hop, and k-pop every now and then.  
 My favorite artists are Playboi Carti, Silk Sonic, and EXO.  
-Favorite song right now: *Bad Decisions* by Benny Blanco, BTS, and Snoop Dogg.
+Favorite song right now: *Snow Flower* by V and Peakboy.
 
 &nbsp;
 
