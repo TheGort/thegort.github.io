@@ -5,7 +5,15 @@ title: David Pham's CV
 # David Pham's Digital Curriculum Vitae
 This page contains all my work and project history. 
 
-If you would like to see my actual resume, you can view it [**here.**]({{ site.url }}/assets/resume_davidpham.pdf){:target="_blank"}
+If you would like to see my actual resume, you can view it [**here.**]({{ site.url }}/assets/resume.pdf){:target="_blank"}
+
+## Professional Summary
+**Detail-oriented data analyst with extensive experience in managing large-scale data projects, particularly in the
+education sector. Skilled in data collection, analysis, and reporting, with a strong focus on student financial aid
+and policy programs. Proven ability to develop comprehensive databases, perform methodological reviews, and
+deliver insightful reports. Adept at collaborating with cross-functional teams to drive data-driven decisions.
+Eager to leverage analytical expertise and technical prowess to contribute to impactful research and learn new
+skills to break into the data science world.**
 
 ## Education  
 ----
@@ -15,8 +23,9 @@ HBSc. Mathematics and Statistics Specialist
 **Campus Involvement:**  
 Events and Logistics Coordinator  
 *University of Toronto Vietnamese Students Association*  
-* Collaborated with 20 executives among 5 sub teams to facilitate and successfully organize 12 bi-weekly social, cultural, and academic events for 250+ club and community members
-* Responsible for micromanaging all detailed event logistics including event itineraries, inventory lists and executive roles to plan official social gatherings that incorporate safe and inclusive practices 
+* Helped facilitate and successfully organize in-person and online events for 270+ club and community members
+* Managed detailed event logistics including event itineraries, inventory lists, and executive roles to plan official social gatherings that incorporate safe and inclusive practices
+* Collaborated with other executive members to manage and finalize year-long event programming of 12 biweekly social, cultural, and academic events
 
 ## Experience
 ----
@@ -24,6 +33,10 @@ Events and Logistics Coordinator
 **Bilingual Data Analyst**
 
 *Council of Ministers of Education, Canada*
+* Serve as the primary data analyst for the Pan-Canadian Indicators on Student Financial Assistance(PCISFA) project, working closely with provincial and territorial partners to collect and analyze largescale data on student financial aid programs
+* Design and maintain a comprehensive database with over 100 indicators, automating data collection and analysis workflows using **Python**, **Excel** and PivotTables
+* Produce annual reports featuring detailed visualizations and statistical tables, providing insights to support evidence-based policymaking
+* Conduct annual methodological reviews of indicators and data points to ensure accuracy and alignment with provincial, territorial, and federal frameworks
 
 &nbsp;
 
@@ -31,8 +44,8 @@ Events and Logistics Coordinator
 **Research Assistant (Statistics Education Developer)** 
 
 *University of Toronto Department of Statistical Sciences* 
-* Planned and developed a statistics-themed virtual escape room for UofT's Department of Statistical Sciences (DoSS) to promote statistics education by using **R**, Zoom, and Gather Town
-* Created social media content around ethical practice and statistical literacy resulting in over 3500 impressions and 400 combined engagements from UofT's DoSS pages
+* Planned and developed a statistics-themed virtual escape room using **R** to promote statistical education
+* Created social media content around ethical practice and statistical literacy resulting in over 3500 impressions and 400 combined engagements
 * Coordinated with professors and 29 other research assistants as a team to ensure smooth release of posts and delivery of the escape room
 
 <p style = "float:right;"><b>Aug 2021 - Apr 2022</b></p>
@@ -47,36 +60,16 @@ Events and Logistics Coordinator
 **Research Assistant**
 
 *University of Toronto* 
-* Assisted a sociology professor in his research regarding work, stress, and health among Canadians, with special attention to the effects of the pandemic
+* Assisted Professor Scott Schieman’s research on work, stress, and health among Canadians during COVID-19
 * Used **Python** libraries such as **NumPy** and **pandas**, as well as **Excel** to analyze, categorize, and visualize open-ended survey data with over 3000 entries about Canadians working from home during COVID-19
 * Visualized findings with statistical tables using **Excel** and **R**, and presented summaries in a concise manner
-
-<p style = "float: right;"><b>Jan 2018 - Nov 2019</b></p>
-**Tutor**
-* Planned and organized 1-1 tutoring sessions to high school students and people all over the world
-* Used a variety of teaching methods depending on individual student learning style, including online video calls, in-person lessons, and YouTube videos with ~700 cumulative views
-* Composed and produced classroom material, lesson plans, and mock homework/exams for topics such as intro to programming, discrete mathematics, and algebra
-
-<p style = "float: right;"><b>Apr 2019 - Aug 2019</b></p>
-**Lead Attendant/Housekeeper**  
-*Canadian National Exhibition*
-* Managed a team of 6 to help maintain the exhibition grounds by effectively communicating required tasks, coordinating with other sub teams, and upholding professionalism
-* Constantly switched between tasks including waste management, housekeeping, supervising, surveying the grounds, and helping customers
-* Reported daily progress and check-ins to lead supervisors in an organized fashion
-
-<p style = "float: right;"><b>May 2017 - Sep 2017</b></p>
-**Software Engineer (Co-op)**  
-*HipPOS Software Inc.*
-* Utilized quality assurance testing methodologies such as non-functional/acceptance testing to identify, document, and report bugs in the point-of-sale software
-* Worked with off-site teams to complete timely tests and ensure smooth product releases
-* Developed a web portal for cloud-based error logging/debugging by using the ASP.NET MVC design pattern in **C#**
 
 ## Projects 
 #### (Please click the hyperlinks to view my work.)
 ----
 [**Independent Readings Course – Ethical Practice for Statisticians**]({{ site.url }}/assets/final_report.pdf){:target="_blank"}
-* Was selected to be 1 of 3 students to explore the misuse of statistics in the scientific community and everyday media consumption
-* Wrote a 9-page educative piece using **RMarkdown** to spread awareness of statistical literacy and ethics, and used **Zotero + BiBTeX** to manage references
+* Was one of three students selected to collaborate with Professor Liza Bolton on statistical ethics research, examining statistical misuse in science and media
+* Authored a 9-page educative piece using **RMarkdown** to spread awareness of statistical literacy and ethics, and used **Zotero + BiBTeX** to manage references
 * Conducted seminars and research presentations for cohort to synthesise findings and key ideas from a large range of sources
 
 [**Statistical Analysis of Gender Parity (R)**]({{ site.url }}/assets/sta303_project.pdf){:target="_blank"}
@@ -85,11 +78,6 @@ Events and Logistics Coordinator
 * Used judgment to choose appropriate generalized linear (mixed) models, checked their assumptions, and justified the selection in confidence intervals and significance testing
 * Balanced the workload as a team and created a seamless report with reproducible code by using **RMarkdown**
 * Liza Bolton (my past instructor for STA303) summarizes the project very well [**here:**](https://www.lizabolton.com/sta303_winter21_note){:target="_blank"}  
-
-**League of Legends Data Analysis (R, Python)**
-* Made a report trying to establish a relationship between rank in League of Legends and predictors such as total number of games played, wins, summoner level, etc. using linear regression
-* Used Python libraries NumPy and pandas to extract and organize over 1000 entries from the Riot API, and used R to conduct regression analyses
-* (The first version/attempt of my report has been completed, but I am refining the methods and procedures to make a second part.)
 
 [**Report on the Effect of Mortality Rate and Alcohol Consumption Using RDD (R)**]({{ site.url }}/assets/sta304_project.pdf){:target="_blank"}
 * Individual school project aimed to replicate and extend Carpenter's and Dobkin's 2009 study on mortality rate and alcohol consumption

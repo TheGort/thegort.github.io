@@ -4,7 +4,7 @@ title: About Me
 ---
 # About Me
 
-![image](/assets/images/wholenewworld.jpg){:height="440px" width="710px"}
+![image](/assets/images/IMG_4794.jpg){:height="460px" width="625px"}
 
 
 Hey! Thanks for taking the time to check me out.
@@ -32,8 +32,8 @@ You'll find that I upload all sorts of content, ranging from video games, educat
 
 If anybody ever wondered what I listen to, follow me on [**Spotify.**](https://open.spotify.com/user/6r2g75pi5l7e863bglv83pzj9?si=CZbhiKIdRq2NqdZcS2SdHQ){:target="_blank"}  
 I like listening to trap, pop, hip-hop, and k-pop every now and then.  
-My favorite artists are Playboi Carti, Silk Sonic, and EXO.  
-Favorite song right now: *Candy* by NCT Dream (originally by H.O.T).
+My favorite artists are Playboi Carti, Bruno Mars, and EXO.  
+Favorite song right now: *Sunset Glow* by BIGBANG.
 
 &nbsp;
 
