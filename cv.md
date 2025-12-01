@@ -7,6 +7,8 @@ This page contains all my work and project history.
 
 If you would like to see my actual resume, you can view it [**here.**]({{ site.url }}/assets/resume.pdf){:target="_blank"}
 
+&nbsp;
+
 ## Professional Summary
 **Detail-oriented data analyst with extensive experience in managing large-scale data projects, particularly in the
 education sector. Skilled in data collection, analysis, and reporting, with a strong focus on student financial aid
@@ -15,17 +17,7 @@ deliver insightful reports. Adept at collaborating with cross-functional teams t
 Eager to leverage analytical expertise and technical prowess to contribute to impactful research and learn new
 skills to break into the data science world.**
 
-## Education  
-----
-<p style="float: right;"><b>Sep 2018 - June 2022</b></p>
-**University of Toronto (St. George)**  
-HBSc. Mathematics and Statistics Specialist  
-**Campus Involvement:**  
-Events and Logistics Coordinator  
-*University of Toronto Vietnamese Students Association*  
-* Helped facilitate and successfully organize in-person and online events for 270+ club and community members
-* Managed detailed event logistics including event itineraries, inventory lists, and executive roles to plan official social gatherings that incorporate safe and inclusive practices
-* Collaborated with other executive members to manage and finalize year-long event programming of 12 biweekly social, cultural, and academic events
+&nbsp;
 
 ## Experience
 ----
@@ -33,10 +25,10 @@ Events and Logistics Coordinator
 **Bilingual Data Analyst**
 
 *Council of Ministers of Education, Canada*
-* Serve as the primary data analyst for the Pan-Canadian Indicators on Student Financial Assistance(PCISFA) project, working closely with provincial and territorial partners to collect and analyze largescale data on student financial aid programs
-* Design and maintain a comprehensive database with over 100 indicators, automating data collection and analysis workflows using **Python**, **Excel** and PivotTables
-* Produce annual reports featuring detailed visualizations and statistical tables, providing insights to support evidence-based policymaking
-* Conduct annual methodological reviews of indicators and data points to ensure accuracy and alignment with provincial, territorial, and federal frameworks
+- Lead data analyst for the Pan-Canadian Indicators on Student Financial Assistance (PCISFA) project, working closely with 13 provincial and territorial partners to collect and analyze large-scale data, and deliver actionable insights on student financial aid programs.
+- Design and maintain a national database with over 100+ indicators, improving reliability and automating data collection processes with Python (NumPy, pandas) and Excel, reducing manual workload by ~40%.
+- Produce annual insight reports featuring Power BI dashboards, statistical tables, and trend analyses, translating complex findings into clear, evidence-based recommendations for policymakers and government officials.
+- Conduct annual methodological reviews, including data testing, validation, and policy alignment to ensure consistency and accuracy across diverse data sources and evolving policy frameworks.
 
 &nbsp;
 
@@ -44,9 +36,11 @@ Events and Logistics Coordinator
 **Research Assistant (Statistics Education Developer)** 
 
 *University of Toronto Department of Statistical Sciences* 
-* Planned and developed a statistics-themed virtual escape room using **R** to promote statistical education
-* Created social media content around ethical practice and statistical literacy resulting in over 3500 impressions and 400 combined engagements
-* Coordinated with professors and 29 other research assistants as a team to ensure smooth release of posts and delivery of the escape room
+- Planned and designed an interactive statistics-themed virtual escape room using **R**, collaborating with 30+ team members.
+- Created educational content on statistical literacy and ethical practice, generating 3,500+ impressions and 400+ engagements.
+- Coordinated scheduling, testing, and QA with faculty and research staff to ensure smooth release of content and delivery of the escape room.
+
+&nbsp;
 
 <p style = "float:right;"><b>Aug 2021 - Apr 2022</b></p>
 **Peer Mentor (STA130 Mentorship Program)**
@@ -56,13 +50,30 @@ Events and Logistics Coordinator
 * Established positive and professional mentoring relationships with students, and maintained a 100% satisfaction rate
 * Collaborated with other mentors to help plan and facilitate social events to encourage community building and offer academic/career-oriented advice
 
+&nbsp;
+
 <p style = "float:right;"><b>May 2021 - Sep 2021</b></p>
 **Research Assistant**
 
 *University of Toronto* 
-* Assisted Professor Scott Schieman’s research on work, stress, and health among Canadians during COVID-19
-* Used **Python** libraries such as **NumPy** and **pandas**, as well as **Excel** to analyze, categorize, and visualize open-ended survey data with over 3000 entries about Canadians working from home during COVID-19
-* Visualized findings with statistical tables using **Excel** and **R**, and presented summaries in a concise manner
+* Analyzed 3000+ open-ended survey responses using **Python** and **Excel**, applying text processing techniques for a study on work, stress, and health during COVID-19.
+* Built statistical tables and data visualizations using **R** and **Excel** to communicate key insights for academic presentations and publication-ready materials.
+
+&nbsp;
+
+## Education  
+----
+<p style="float: right;"><b>Aug 2025 - Aug 2027</b></p>
+**Georgia Institute of Technology**  
+MSc. Analytics, Focus in Computational Data Analytics
+
+&nbsp;
+
+<p style="float: right;"><b>Sep 2018 - June 2022</b></p>
+**University of Toronto (St. George)**  
+HBSc. Mathematics and Statistics Specialist  
+
+&nbsp;
 
 ## Projects 
 #### (Please click the hyperlinks to view my work.)
@@ -71,6 +82,11 @@ Events and Logistics Coordinator
 * Was one of three students selected to collaborate with Professor Liza Bolton on statistical ethics research, examining statistical misuse in science and media
 * Authored a 9-page educative piece using **RMarkdown** to spread awareness of statistical literacy and ethics, and used **Zotero + BiBTeX** to manage references
 * Conducted seminars and research presentations for cohort to synthesise findings and key ideas from a large range of sources
+
+[**League of Legends Data Analysis – Smurf Detection & Ranked Progression**]({{ site.url }}/assets/lol_project.pdf){:target="_blank"}
+- Analyzed ranked match data using **R** (dplyr, ggplot2) to model rank progression and identify smurfing patterns for a school project.
+- Cleaned and merged multi-source datasets from the Riot API, and explored relationships between rank, experience, total games played, and performance.
+- Wrote a structured analytical report interpreting statistical results and visualizations for technical and non-technical audiences.
 
 [**Statistical Analysis of Gender Parity (R)**]({{ site.url }}/assets/sta303_project.pdf){:target="_blank"}
 * Worked in a group of 4 for a school project as a consulting firm to assess gender parity in hiring, wages, and promotions for a fictitious software company
@@ -92,6 +108,8 @@ Events and Logistics Coordinator
 * Implemented multiple linear regression in order to help home buyers predict sale price of homes in the GTA for a school assignment
 * Analyzed diagnostic plots and used the Akaike/Bayesian information criterion for optimal probabilistic model selection
 
+&nbsp;
+
 ## Technical Skills
 ----
 I am comfortable with the following languages/applications:
@@ -102,6 +120,8 @@ I am comfortable with the following languages/applications:
 * SQL
 * Tableau
 * Microsoft Excel and Access
+
+&nbsp;
 
 ## Relevant Courses
 ----
